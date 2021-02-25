@@ -6,11 +6,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/gabrielportugalg/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielportugalg/"/></a>
-  
   <a href="https://www.linkedin.com/in/gabriel-portugal-b26a13188/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-portugal-b26a13188/" /></a>
+  
+  <a href="https://www.instagram.com/gabrielportugalg/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielportugalg/"/></a>
   
   <a href="https://gabrielportugalg.medium.com/" alt="Medium">
   <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white&link=https://gabrielportugalg.medium.com/" /></a>
