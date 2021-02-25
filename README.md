@@ -27,7 +27,7 @@
 
   - 🎓 Cursando **Pós Graduação em Eng.Mecatrônica** na UCP
 
-  - 💻 Curto **Javascript/Node.js/React/VueJS** 
+  - 💻 Curto **Javascript/VueJs/React/NodeJs** 
   
 </p>
   
