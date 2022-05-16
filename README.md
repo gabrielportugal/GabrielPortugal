@@ -22,9 +22,11 @@
        
   - 💼 Atualmente trabalho na [RG Sistemas](https://rgsistemas.com.br/) como Programador
 
+  - 🎓 Mestrando em **Ciência da Computação** no CEFET/RJ
+  
   - 🎓 Graduado em **Eng.Mecatrônica** na UCP
 
-  - 💻 Curto **Javascript/VueJs/React/NodeJs** 
+  - 💻 Curto **Javascript/VueJs/ReactNative/NodeJs** 
   
 </p>
   
